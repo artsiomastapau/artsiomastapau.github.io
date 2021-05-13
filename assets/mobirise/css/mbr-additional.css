@@ -1099,7 +1099,7 @@ a {
 }
 .cid-swVoER1cTj {
   padding-top: 1rem;
-  padding-bottom: 6rem;
+  padding-bottom: 0rem;
   background-color: #fafafa;
 }
 .cid-swVoER1cTj .row {
@@ -1358,6 +1358,23 @@ a {
 .cid-swVoER1cTj H6 {
   text-align: center;
 }
+.cid-sxjtkB1glW {
+  padding-top: 2rem;
+  padding-bottom: 4rem;
+  background-color: #fafafa;
+}
+.cid-sxjtkB1glW .mbr-text,
+.cid-sxjtkB1glW .mbr-section-btn {
+  color: #232323;
+}
+.cid-sxjtkB1glW .card-title,
+.cid-sxjtkB1glW .card-box {
+  color: #ffffff;
+}
+.cid-sxjtkB1glW .mbr-text,
+.cid-sxjtkB1glW .link-wrap {
+  color: #ffffff;
+}
 .cid-swP4mcG4h8 {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1434,7 +1451,7 @@ a {
 }
 .cid-swO9LeuljN .dropdown-menu,
 .cid-swO9LeuljN .navbar.opened {
-  background: #353535 !important;
+  background: #232323 !important;
 }
 .cid-swO9LeuljN .nav-item:focus,
 .cid-swO9LeuljN .nav-link:focus {
@@ -1468,7 +1485,7 @@ a {
   min-height: 70px;
   transition: all 0.3s;
   border-bottom: 1px solid transparent;
-  background: #353535;
+  background: #232323;
 }
 .cid-swO9LeuljN .navbar.opened {
   transition: all 0.3s;
@@ -1613,7 +1630,7 @@ a {
   padding: 0.667em 1.667em;
 }
 .cid-swO9LeuljN .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #353535;
+  background: #232323;
 }
 .cid-swO9LeuljN .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1644,7 +1661,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #fafafa;
+  background-color: #000000;
 }
 .cid-swO9LeuljN button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1748,7 +1765,7 @@ a {
 }
 .cid-swP584SH71 {
   padding-top: 6rem;
-  padding-bottom: 6rem;
+  padding-bottom: 3rem;
   background-color: #ff6f6f;
 }
 .cid-swP584SH71 .card .card-header {
@@ -1777,6 +1794,14 @@ a {
   color: #ffffff;
 }
 .cid-swP584SH71 .panel-text {
+  color: #ffffff;
+}
+.cid-sxjuSkcXRO {
+  padding-top: 0rem;
+  padding-bottom: 6rem;
+  background-color: #ff6f6f;
+}
+.cid-sxjuSkcXRO .mbr-section-title {
   color: #ffffff;
 }
 .cid-swP4mcG4h8 {
@@ -2244,6 +2269,14 @@ a {
 }
 .cid-sx2SSOOeAp .mbr-timeline-title {
   color: #ff6f6f;
+}
+.cid-sxjFd4Gof8 {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ff6f6f;
+}
+.cid-sxjFd4Gof8 .mbr-section-title {
+  color: #ffffff;
 }
 .cid-swO9LeuljN {
   z-index: 1000;
