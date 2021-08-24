@@ -1,4 +1,4 @@
-### Hi there 👋
+### Here's my portfolio website, feel free to visit it
 
 <!--
 **artsiomastapau/artsiomastapau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
